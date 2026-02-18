@@ -78,8 +78,8 @@ Everything is pre-filled. Verify your identity and start banking
 ```
 
 <div align="center">
+<kbd><img src="assets/demo.png" alt="Vivid MCP Demo" width="300"></kbd>
 
-<img src="assets/demo.png" alt="Vivid MCP Demo" width="300">
 
 </div>
 
