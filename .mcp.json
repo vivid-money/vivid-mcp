@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vivid-mcp": {
+      "type": "http",
+      "url": "https://api.prime.vivid.money/mcp"
+    }
+  }
+}
