@@ -4,8 +4,6 @@
 
 <a href="https://vivid.money" target="_blank" style="border-radius: 5px">
   <img src="assets/logo.png" alt="Vivid" width="48" style="border-radius: 5px">
-
-
 </a>
 
 
@@ -31,7 +29,7 @@ Share your company details, and your account is ready — no tab switching requi
 
 ---
 
-## How it works
+## <img src="https://github.com/user-attachments/assets/4fcccb85-ef01-4286-a681-71a741f97d57" width="20px"> How it works
 
 <table>
 <tr>
