@@ -2,8 +2,10 @@
 
 # Vivid MCP
 
-<a href="https://vivid.money" target="_blank">
-<img src="assets/logo.png" alt="Vivid" width="48" style="border-radius:5px">
+<a href="https://vivid.money" target="_blank" style="border-radius: 5px">
+  <img src="assets/logo.png" alt="Vivid" width="48" style="border-radius: 5px">
+
+
 </a>
 
 
@@ -199,7 +201,9 @@ skills/
 <br>
 
 <a href="https://vivid.money" target="_blank">
-<img src="assets/logo.png" alt="Vivid" width="48" style="border-radius:5px">
+    <kbd>
+  <img src="assets/logo.png" alt="Vivid" width="48" style="border-radius: 5px">
+</kbd>
 </a>
 
 <br>
