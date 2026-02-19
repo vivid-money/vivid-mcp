@@ -94,7 +94,7 @@ Everything is pre-filled. Verify your identity and start banking
 <br>
 
 <details>
-<summary><strong>Claude</strong></summary>
+<summary><strong>Claude Connectors</strong></summary>
 
 <br>
 
@@ -110,7 +110,7 @@ https://api.prime.vivid.money/mcp
 </details>
 
 <details>
-<summary><strong>ChatGPT</strong></summary>
+<summary><strong>ChatGPT Apps</strong></summary>
 
 <br>
 
@@ -131,6 +131,16 @@ https://api.prime.vivid.money/mcp
 <br>
 
 [![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en-US/install-mcp?name=vivid-mcp&config=eyJ1cmwiOiJodHRwczovL2FwaS5wcmltZS52aXZpZC5tb25leS9tY3AifQ%3D%3D)
+
+<br>
+</details>
+
+<details>
+<summary><strong>Replit</strong></summary>
+
+<br>
+
+[![Add to Replit](https://replit.com/badge?caption=Add%20to%20Replit)](https://replit.com/integrations?mcp=eyJkaXNwbGF5TmFtZSI6IlZpdmlkIE1DUCBTZXJ2ZXIiLCJiYXNlVXJsIjoiaHR0cHM6Ly9hcGkucHJpbWUudml2aWQubW9uZXkvbWNwIn0=)
 
 <br>
 </details>
