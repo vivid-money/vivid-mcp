@@ -94,9 +94,17 @@ Everything is pre-filled. Verify your identity and start banking
 <br>
 
 <details>
-<summary><strong>Claude Connectors</strong></summary>
+<summary><strong>Claude</strong></summary>
 
 <br>
+
+Install from the Claude directory — no URL to paste:
+
+**[claude.ai/directory/vivid-mcp](https://claude.ai/directory/vivid-mcp)**
+
+<br>
+
+Or add it by hand:
 
 1. Go to [claude.ai/settings/connectors](https://claude.ai/settings/connectors)
 2. Click **Add custom connector**
