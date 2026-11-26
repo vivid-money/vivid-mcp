@@ -1,12 +1,18 @@
 {
   "name": "vivid-mcp",
-  "version": "0.1.0",
-  "description": "Open a Vivid Business account from your AI chat via MCP.",
+  "version": "1.0.0",
+  "description": "Read your Vivid Business accounts, cards and transactions from your AI assistant. Read-only.",
   "author": {
     "name": "Vivid Money",
     "url": "https://vivid.money"
   },
   "homepage": "https://github.com/vivid-money/vivid-mcp",
   "license": "MIT",
-  "keywords": ["mcp", "banking", "onboarding", "vivid"]
+  "keywords": [
+    "mcp",
+    "banking",
+    "business-banking",
+    "oauth",
+    "vivid"
+  ]
 }
